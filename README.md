@@ -7,7 +7,7 @@ This repository contains practical examples and solutions demonstrating various 
 ### 1. DeepSeek R1 Deployment using HuggingFace Container
 - Deploy DeepSeek R1, a powerful language model, on Amazon SageMaker using HuggingFace Container Images
 - Includes deployment configuration, endpoint setup, and inference example
-- [View Solution](./deepseek-r1-deployment/)
+- [View Solution](./deploy-deepseek-huggingface.ipynb)
 
 ### 2. TBD
 
